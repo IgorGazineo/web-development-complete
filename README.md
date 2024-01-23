@@ -4,7 +4,7 @@
 
 ## Stack utilizada
 
-**Front-end:** ![Static Badge](https://img.shields.io/badge/html-orange?style=for-the-badge)
+**Front-end:** <br> ![Static Badge](https://img.shields.io/badge/html-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/css-blue?style=for-the-badge)
 
 <h2>Sobre:</h2>
